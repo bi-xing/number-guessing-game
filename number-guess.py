@@ -3,7 +3,6 @@ import random
 # to be revamped with other features, like:
 # A. guess hints for higher/lower guesses
 # B. a guess counter (like 3 guesses left)
-# this directly correlates to my calculator project
 
 def end_game(number,won):
     if won:
